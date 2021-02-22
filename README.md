@@ -1,2 +1,2 @@
 # Neural_networks
-Neural networks and deep learning classes.
+Neural networks and deep learning classes and exercises.
